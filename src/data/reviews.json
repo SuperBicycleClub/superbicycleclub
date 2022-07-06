@@ -1,0 +1,28 @@
+[
+  {
+    "name": "CHANG SHU - Founder, Project Manager",
+    "content": "5 Years experience in blockchain, over 7 years of business experience. Core team of many projects.",
+    "avatar": "/assets/avatar-1.png",
+    "active": true
+  },
+  {
+    "name": "MIN JUN - Technical Leader",
+    "content": "5+ Years experience in blockchain, from alt currency design to trading algorithms. Architect for 2 Altcoins and 5 IDO projects.",
+    "avatar": "/assets/avatar-2.png"
+  },
+  {
+    "name": "MASAHIKO - NFT Artist",
+    "content": "Education: Art Department, Washburn University. 4+ Years of experience as an NFT artist.",
+    "avatar": "/assets/avatar-3.png"
+  },
+  {
+    "name": "BANG YEONG - Marketing Manager",
+    "content": "6+ Years experience as Marketing Manager. Build and lead the crypto marketing team. She is experienced with social media, content marketing, video production.",
+    "avatar": "/assets/avatar-4.png"
+  },
+  {
+    "name": "KYEONG YOUNG - Finance Manager",
+    "content": "9+ Years experience as Finance Manager. Support the preparation of the SBC head office's yearly operating budget. Oversee the finance aspects at Head Office and support SBC operations.",
+    "avatar": "/assets/avatar-5.png"
+  }
+]

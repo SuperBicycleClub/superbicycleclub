@@ -1,0 +1,31 @@
+---
+import {Icon} from 'astro-icon';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import Services from '../components/Services.astro';
+import Reviews from '../components/Reviews.astro';
+import Pricing from '../components/Pricing.astro';
+import Clients from '../components/Clients.astro';
+import CTA from '../components/CTA.astro';
+import bikePic from '../icons/superbicycle.png';
+---
+
+<BaseLayout title="Super Bicycle Club">
+  
+  <Hero />
+
+  <section class="programmer container blur grid-sm">
+    <img src={bikePic} alt="Company logo" />
+  </section>
+
+  <Services />
+  
+  <Reviews />
+ 
+  <Pricing />
+  
+  <Clients />
+  
+  <CTA />
+
+</BaseLayout>

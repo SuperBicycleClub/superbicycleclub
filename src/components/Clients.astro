@@ -1,0 +1,40 @@
+---
+import { Icon } from 'astro-icon';
+const data = [
+  {
+    "icon": "simple-icons:antdesign",
+    "alt": "Twitter Logo",
+  },
+  {
+    "icon": "simple-icons:barclays",
+    "alt": "Yahoo! Logo",
+  },
+  {
+    "icon": "simple-icons:bitcoin",
+    "alt": "Telegram Logo",
+  },
+  {
+    "icon": "simple-icons:binance",
+    "alt": "BNB Logo",
+  },
+  {
+    "icon": "simple-icons:aerlingus",
+    "alt": "Apple Logo",
+  },
+  {
+    "icon": "simple-icons:postmates",
+    "alt": "Asada Logo",
+  },
+]
+---
+
+<section class="clients grid-sm">
+  <h2 class="h3 clients--heading">Official Partners</h2>
+  <div class="client-logo-container">
+    {
+    data.map(i => (
+    <Icon name={i.icon} width="120" height="85" class="client-logo text-muted" alt={i.alt} />
+    ))
+    }
+  </div>
+</section>
