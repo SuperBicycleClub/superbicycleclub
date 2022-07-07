@@ -1,32 +1,32 @@
 [
   {
-    "icon": "feather:code",
-    "name": "Custom Coding",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
+    "icon": "feather:home",
+    "name": "Marketplace",
+    "content" : "Users can buy and sell SBC-NFTs on the Marketplace."
   },
   {
     "icon": "feather:users",
-    "name": "User Friendly",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam iquam vel nibh amet, vitae at purus dui semper vel facilisis enim vel nibh amet, vitae at purus dui semper vel facilisis enim"
-  },
-  {
-    "icon": "feather:search",
-    "name": "SEO Optimized",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
-  },
-  {
-    "icon": "feather:trending-up",
-    "name": "Built for Growth",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at vitae a vitae a purus dui semper vel facilisis enim"
+    "name": "Walk To Earn",
+    "content" : "If you have an SBC-NFT, You can earn SBC tokens by walking "
   },
   {
     "icon": "feather:smartphone",
-    "name": "Ready for Mobile",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
+    "name": "Ride To Earn",
+    "content" : "You will get extra SBC tokens when cycling"
   },
   {
-    "icon": "feather:home",
-    "name": "Feels like you",
-    "content" : "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim"
+    "icon": "feather:trending-up",
+    "name": "Online Racing Betting",
+    "content" : "Online Racing Betting"
+  },
+  {
+    "icon": "feather:code",
+    "name": "Auction",
+    "content" : "SBC will offer weekly auctions of limited items every Sunday!"
+  },
+  {
+    "icon": "feather:search",
+    "name": "NFT Staking",
+    "content" : "Earn passive income with your SBC-NFTs."
   }
 ]

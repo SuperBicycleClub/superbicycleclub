@@ -1,13 +1,28 @@
 ---
 import Button from './Button.astro';
+import roadmap from '../icons/roadmap.png';
+import tokenomics from '../icons/tokenomics.png';
 ---
+
 <section class="grid-lg cta">
+  <section class="programmer container blur grid-sm">
+    <img src={roadmap} alt="Roadmap" />
+  </section>
+  <section class="programmer container blur grid-sm">
+    <img src={tokenomics} alt="Tokenomics" />
+  </section>
   <div class="grid-sm">
     <h2 class="h2">Let Us Tell Your Story</h2>
-    <p class="text-muted narrow">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, fugit a. Nulla numquam beatae, amet doloremque quod sunt molestias accusamus!</p>
+    <p class="text-muted narrow">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, fugit a. Nulla numquam
+      beatae, amet doloremque quod sunt molestias accusamus!</p>
+  </div>
+  <div class="client-logo-container">
+    <Button text="Email" link="mailto:admin@superbicycle.club" style="secondary" />
+    <Button text="Official News" link="https://t.me/superbicycleclub/" style="secondary" />
+    <Button text="Twitter" link="https://twitter.com/sbc_r2e/" style="secondary" />
+    <Button text="Group Chat" link="https://t.me/superbicycleclubchat/" style="secondary" />
   </div>
   <div class="grid-sm">
-    <Button text="Contact Me" link="#" style="secondary"/>
-    <small class="text-muted">No commitment contact</small>
+    <small class="text-muted">Join US</small>
   </div>
 </section>
