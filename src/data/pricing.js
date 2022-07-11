@@ -10,7 +10,7 @@ const pricingData = [
       "Wheel Size: 29/27.5 inches",
       "Frame Height:	29×15/17/19, 27.5×15/17/19 inches",
       "Earn Rate: 1,000 $BC/km",
-      "Max Boost Rate: 5,000 km",
+      "Max Boost Rate: 5,000 $BC/km",
       "Repairs Remaining: 1 of 1 repairs",
     ],
     button: {
@@ -31,7 +31,7 @@ const pricingData = [
       "Wheel Size: 27.5/29 inches",
       "Frame Height:	27.5×15/17/19, 29×15/17/19 inches",
       "Earn Rate: 2,500 $BC/km",
-      "Max Boost Rate: 12,500 km",
+      "Max Boost Rate: 12,500 $BC/km",
       "Repairs Remaining: 2 of 2 repairs",
     ],
     button: {
@@ -52,7 +52,7 @@ const pricingData = [
       "Wheel Size: 29/27.5 inches",
       "Frame Height:	15/17/19/21 inches",
       "Earn Rate: 5,000 $BC/km",
-      "Max Boost Rate: 25,000 km",
+      "Max Boost Rate: 25,000 $BC/km",
       "Repairs Remaining: 3 of 3 repairs",
     ],
     button: {
@@ -73,7 +73,7 @@ const pricingData = [
       "Wheel Size: 27.5/29 inches",
       "Frame Height:	17/19 inches",
       "Earn Rate: 7,500 $BC/km",
-      "Max Boost Rate: 37,500 km",
+      "Max Boost Rate: 37,500 $BC/km",
       "Repairs Remaining: 4 of 4 repairs",
     ],
     button: {
@@ -94,7 +94,7 @@ const pricingData = [
       "Wheel Size: 29/27.5 inches",
       "Frame Height:	29×15/17/19, 27.5×15/17/19 inches",
       "Earn Rate: 10,000 $BC/km",
-      "Max Boost Rate: 50,000 km",
+      "Max Boost Rate: 50,000 $BC/km",
       "Repairs Remaining: 5 of 5 repairs",
     ],
     button: {
