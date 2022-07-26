@@ -2,6 +2,7 @@
 import Button from './Button.astro';
 import roadmap from '../icons/roadmap.png';
 import tokenomics from '../icons/tokenomics.png';
+import pinksale from "/assets/pinksale.png";
 ---
 
 <section class="grid-lg cta">
@@ -11,10 +12,18 @@ import tokenomics from '../icons/tokenomics.png';
   <section class="programmer container blur grid-sm">
     <img src={tokenomics} alt="Tokenomics" />
   </section>
+  <div class="grid-sm">
+    <h2 class="h2">Official Pre-sale on PinkSale Launchpad</h2>
+    <p class="text-muted">July 29 2022 - July 31 2022</p>
+  </div>
+  <section class="programmer container blur grid-sm">
+    <img src={pinksale} alt="PinkSale" />
+  </section>
   <div class="client-logo-container">
     <Button width="150" text="Twitter" link="https://twitter.com/sbc_r2e/" style="secondary" />
     <Button width="150" text="Group Chat" link="https://t.me/superbicycleclubchat/" style="secondary" />
     <Button width="150" text="Email" link="mailto:admin@superbicycle.club" style="secondary" />
+    <Button width="150" text="Buy Now" link="https://www.pinksale.finance/launchpad/0xC2DE9f5df2a0d17375A18a3d58C3Fba01C1Bc763?chain=BSC" style="secondary" />
   </div>
   <div class="grid-sm">
     <small class="text-muted">Join US</small>
